@@ -13,9 +13,7 @@ The growing demand for data-driven decision-making has created an urgent need fo
 ## Conference Paper (including arxiv)
 | Venue       | Paper                                                        | Corresp. Author |                           Links                             |TLDR                                                      |
 | :---------- | :----------------------------------------------------------- | :-------------: |:----------------------------------------------------------: | :----------------------------------------------------------- |
-| CIDR'25   | AOP: Automated and Interactive LLM Pipeline Orchestration
-for Answering Complex Queries | Guoliang Li |  [paper](https://www.vldb.org/cidrdb/papers/2025/p32-wang.pdf)   |
-| Arxiv/2503   | DAgent: A Relational Database-Driven Data Analysis Report
-Generation Agent | Yunjun Gao |  [paper](https://arxiv.org/pdf/2503.13269)   |
+| CIDR'25   | AOP: Automated and Interactive LLM Pipeline Orchestration for Answering Complex Queries | Guoliang Li |  [paper](https://www.vldb.org/cidrdb/papers/2025/p32-wang.pdf)   |
+| Arxiv/2503   | DAgent: A Relational Database-Driven Data Analysis Report Generation Agent | Yunjun Gao |  [paper](https://arxiv.org/pdf/2503.13269)   |
 | Arxiv/2505   | TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes | Ju Fan |  [paper](https://arxiv.org/pdf/2505.11270)   |
 | Arxiv/2508   | AgenticData: An Agentic Data Analytics System for Heterogeneous Data | Yuan Li |  [paper](https://arxiv.org/pdf/2508.05002)   |
