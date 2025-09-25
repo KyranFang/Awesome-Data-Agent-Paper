@@ -7,6 +7,7 @@ The growing demand for data-driven decision-making has created an urgent need fo
 | Benchmark Name | Corresp. Author     | Year | Source                                                                                  | TLDR |
 |:--------------:|:-------------:|:----:|:---------------------------------------------------------------------------------------:|:-----|
 | InfiAgent-DABench | Jingjing Xu | 2024 | [Link](https://arxiv.org/pdf/2401.05507) [Repo](https://github.com/InfiAgent/InfiAgent)|
+| CRAG | Xiao Yang @ Meta | 2024 | [Link](https://arxiv.org/pdf/2406.04744) [Repo](https://github.com/facebookresearch/CRAG/)|
 | FDABench | Gao Cong  | 2025 | [Link](https://arxiv.org/pdf/2509.02473) [Repo](https://github.com/fdabench/FDAbench)|
 | DA-Bench | Yunjun Gao  | 2025 | [Link](https://arxiv.org/pdf/2503.13269) [Repo](https://github.com/ZJU-LLMs/DAgent)|
 
