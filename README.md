@@ -8,10 +8,10 @@ The growing demand for data-driven decision-making has created an urgent need fo
 
 | Benchmark Name | Corresp. Author     | Year | Source                                                                                  | TLDR |
 |:--------------:|:-------------:|:----:|:---------------------------------------------------------------------------------------:|:-----|
-| InfiAgent-DABench | Jingjing Xu | 2024 | [Link](https://arxiv.org/pdf/2401.05507) [Repo](https://github.com/InfiAgent/InfiAgent)|
-| CRAG | Xiao Yang | 2024 | [Link](https://arxiv.org/pdf/2406.04744) [Repo](https://github.com/facebookresearch/CRAG/)|
-| FDABench | Gao Cong | 2025 | [Link](https://arxiv.org/pdf/2509.02473) [Repo](https://github.com/fdabench/FDAbench)|
-| DA-Bench | Yunjun Gao | 2025 | [Link](https://arxiv.org/pdf/2503.13269) [Repo](https://github.com/ZJU-LLMs/DAgent)|
+| InfiAgent-DABench | Jingjing Xu | 2024 | [Link](https://arxiv.org/pdf/2401.05507) [Repo](https://github.com/InfiAgent/InfiAgent)| Input: NL data-analysis queries plus linked CSVs (executed in a constrained Python sandbox). Output: Closed-form answers in a fixed format (e.g., @answer_name[answer]). Metrics: Exact-match scoring on the canonicalized answers; aggregate accuracy over sub-tasks.
+| CRAG | Xiao Yang | 2024 | [Link](https://arxiv.org/pdf/2406.04744) [Repo](https://github.com/facebookresearch/CRAG/)| Input: Factoid questions with access to provided corpora and mock retrieval/APIs. Output: Final textual answer (optionally with cited evidence). Metrics: Automatic correctness categories mapped to a score (correct/acceptable vs. missing/incorrect); report overall accuracy.
+| FDABench | Gao Cong | 2025 | [Link](https://arxiv.org/pdf/2509.02473) [Repo](https://github.com/fdabench/FDAbench)| Input: Cross-source analytical queries spanning structured tables and unstructured sources. Output: Multiple-choice selections or a short analysis/report when required. Metrics: Exact-match for MC/checkbox tasks; text tasks by overlap metrics (e.g., ROUGE) plus tool-use success/recall; also reports efficiency (latency, model/tool calls, token/cost).
+| DA-Bench | Yunjun Gao | 2025 | [Link](https://arxiv.org/pdf/2503.13269) [Repo](https://github.com/ZJU-LLMs/DAgent)| Input: Realistic analyst tasks against a live data stack/tools. Output: Final answers or produced charts/tables. Metrics: Per-task 0–5 rubric with penalties for extra user interaction, corrections, or hallucinations; summarize overall score and hallucination rate.
 
 ### Latest Benchmarks for Tabular Data (Since 2024)
 
