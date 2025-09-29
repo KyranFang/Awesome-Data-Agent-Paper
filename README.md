@@ -6,10 +6,11 @@
 
 | Benchmark Name | Corresp. Author     | Year | Source                                                                                  | TLDR |
 |:--------------:|:-------------:|:----:|:---------------------------------------------------------------------------------------:|:-----|
-| InfiAgent-DABench | Jingjing Xu | 2024 | [Link](https://arxiv.org/pdf/2401.05507) [Repo](https://github.com/InfiAgent/InfiAgent)| Input: NL data-analysis queries plus linked CSVs (executed in a constrained Python sandbox). Output: Closed-form answers in a fixed format (e.g., @answer_name[answer]). Metrics: Exact-match scoring on the canonicalized answers; aggregate accuracy over sub-tasks.
-| CRAG | Xiao Yang | 2024 | [Link](https://arxiv.org/pdf/2406.04744) [Repo](https://github.com/facebookresearch/CRAG/)| Input: Factoid questions with access to provided corpora and mock retrieval/APIs. Output: Final textual answer (optionally with cited evidence). Metrics: Automatic correctness categories mapped to a score (correct/acceptable vs. missing/incorrect); report overall accuracy.
+| InfiAgent-DABench | Jingjing Xu | 2024 | [Link](https://arxiv.org/pdf/2401.05507) [Repo](https://github.com/InfiAgent/InfiAgent)| Benchmark from ICML'24 Paper. Input: NL data-analysis queries plus linked CSVs (executed in a constrained Python sandbox). Output: Closed-form answers in a fixed format (e.g., @answer_name[answer]). Metrics: Exact-match scoring on the canonicalized answers; aggregate accuracy over sub-tasks.
+| CRAG | Xiao Yang | 2024 | [Link](https://arxiv.org/pdf/2406.04744) [Repo](https://github.com/facebookresearch/CRAG/)| Benchmark from NIPS'24 D&B track. Input: Factoid questions with access to provided corpora and mock retrieval/APIs. Output: Final textual answer (optionally with cited evidence). Metrics: Automatic correctness categories mapped to a score (correct/acceptable vs. missing/incorrect); report overall accuracy.
 | FDABench | Gao Cong | 2025 | [Link](https://arxiv.org/pdf/2509.02473) [Repo](https://github.com/fdabench/FDAbench)| Input: Cross-source analytical queries spanning structured tables and unstructured sources. Output: Multiple-choice selections or a short analysis/report when required. Metrics: Exact-match for MC/checkbox tasks; text tasks by overlap metrics (e.g., ROUGE) plus tool-use success/recall; also reports efficiency (latency, model/tool calls, token/cost).
 | DA-Bench | Yunjun Gao | 2025 | [Link](https://arxiv.org/pdf/2503.13269) [Repo](https://github.com/ZJU-LLMs/DAgent)| Input: Realistic analyst tasks against a live data stack/tools. Output: Final answers or produced charts/tables. Metrics: Per-task 0–5 rubric with penalties for extra user interaction, corrections, or hallucinations; summarize overall score and hallucination rate.
+| DSBench | Dong Yu | 2025 | [Link](https://arxiv.org/pdf/2503.13269) [Repo](https://github.com/ZJU-LLMs/DAgent)| Benchmark from ICLR'25 Paper. Input: Realistic analyst tasks against a live data stack/tools. Output: Final answers or produced charts/tables. Metrics: Per-task 0–5 rubric with penalties for extra user interaction, corrections, or hallucinations; summarize overall score and hallucination rate.
 
 ### Latest Benchmarks for Tabular Data (Since 2024)
 
@@ -46,6 +47,8 @@
 | NAACL'25    | H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables | Chandan K. Reddy | [paper](https://arxiv.org/pdf/2407.05952) 
 | Neurips'25  | Table as a Modality for Large Language Models | Junbo Zhao| [paper](https://neurips.cc/virtual/2025/poster/116332)  
 | Arxiv/2506  | MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning | Thuy-Trang Vu |  [paper](https://arxiv.org/pdf/2503.13269)   |
+| Arxiv/2503  | DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science | Yu Huang |  [paper](https://arxiv.org/pdf/2503.13269)   |
+| Arxiv/2503  | DatawiseAgent: A Notebook-Centric LLM Agent Framework for Automated Data Science | Yu Huang |  [paper]()   |
 | Arxiv/2503  | DAgent: A Relational Database-Driven Data Analysis Report Generation Agent | Yunjun Gao |  [paper](https://arxiv.org/pdf/2503.13269)   |
 | Arxiv/2505  | TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes | Ju Fan |  [paper](https://arxiv.org/pdf/2505.11270)   |
 | Arxiv/2508  | AgenticData: An Agentic Data Analytics System for Heterogeneous Data | Yuan Li |  [paper](https://arxiv.org/pdf/2508.50002)   |
