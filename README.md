@@ -1,7 +1,5 @@
 # Awesome Data Agent and Table Reasoning Paper
 
-The growing demand for data-driven decision-making has created an urgent need for data agents that can integrate structured and unstructured data for analysis where data agents are a type of agent designed to utilize LLMs’ reasoning and tool invocation capabilities by repositioning LLMs as reasoning and orchestrating tools rather than processing entire data content directly
-
 ## Benchmark
 
 ### Data Agent Benchmark
@@ -40,17 +38,17 @@ The growing demand for data-driven decision-making has created an urgent need fo
 | Venue       | Paper                                                        | Corresp. Author |                           Links                             |
 | :---------- | :----------------------------------------------------------- | :-------------: |:----------------------------------------------------------: | 
 | SIGMOD'26   | ST-Raptor: LLM-Powered Semi-Structured Table Question Answering | Xuanhe Zhou |  [paper](https://arxiv.org/pdf/2508.18190)   |
-| CIDR'25   | AOP: Automated and Interactive LLM Pipeline Orchestration for Answering Complex Queries | Guoliang Li |  [paper](https://www.vldb.org/cidrdb/papers/2025/p32-wang.pdf)   |
-| VLDB'25   | Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models |  Qi Liu |[paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf)   |
-| VLDB'25   | AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework |  Qi Liu| [paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf)   |
-| ICML'25   | Compositional Condition Question Answering in Tabular Understanding | Han-Jia Ye | [paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf?utm_source=chatgpt.com)   |
-| ICML'25   | Are Large Language Models Ready for Multi-Turn Tabular Data Analysis? | Reynold Cheng | [paper](https://openreview.net/attachment?id=flKhxGTBj2&name=pdf) 
-| NAACL'25   | H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables | Chandan K. Reddy | [paper](https://arxiv.org/pdf/2407.05952) 
-| Neurips'25   | Table as a Modality for Large Language Models | Junbo Zhao| [paper](https://neurips.cc/virtual/2025/poster/116332)  
-| Arxiv/2506   | MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning | Thuy-Trang Vu |  [paper](https://arxiv.org/pdf/2503.13269)   |
-| Arxiv/2503   | DAgent: A Relational Database-Driven Data Analysis Report Generation Agent | Yunjun Gao |  [paper](https://arxiv.org/pdf/2503.13269)   |
-| Arxiv/2505   | TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes | Ju Fan |  [paper](https://arxiv.org/pdf/2505.11270)   |
-| Arxiv/2508   | AgenticData: An Agentic Data Analytics System for Heterogeneous Data | Yuan Li |  [paper](https://arxiv.org/pdf/2508.50002)   |
+| CIDR'25     | AOP: Automated and Interactive LLM Pipeline Orchestration for Answering Complex Queries | Guoliang Li |  [paper](https://www.vldb.org/cidrdb/papers/2025/p32-wang.pdf)   |
+| VLDB'25     | Towards Automated Cross-domain Exploratory Data Analysis through Large Language Models  | Qi Liu | [paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf)   |
+| VLDB'25     | AutoPrep: Natural Language Question-Aware Data Preparation with a Multi-Agent Framework | Qi Liu | [paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf)   |
+| ICML'25     | Compositional Condition Question Answering in Tabular Understanding | Han-Jia Ye | [paper](https://www.vldb.org/pvldb/vol18/p5086-zhu.pdf?utm_source=chatgpt.com)   |
+| ICML'25     | Are Large Language Models Ready for Multi-Turn Tabular Data Analysis? | Reynold Cheng | [paper](https://openreview.net/attachment?id=flKhxGTBj2&name=pdf) 
+| NAACL'25    | H-STAR: LLM-driven Hybrid SQL-Text Adaptive Reasoning on Tables | Chandan K. Reddy | [paper](https://arxiv.org/pdf/2407.05952) 
+| Neurips'25  | Table as a Modality for Large Language Models | Junbo Zhao| [paper](https://neurips.cc/virtual/2025/poster/116332)  
+| Arxiv/2506  | MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning | Thuy-Trang Vu |  [paper](https://arxiv.org/pdf/2503.13269)   |
+| Arxiv/2503  | DAgent: A Relational Database-Driven Data Analysis Report Generation Agent | Yunjun Gao |  [paper](https://arxiv.org/pdf/2503.13269)   |
+| Arxiv/2505  | TAIJI: MCP-based Multi-Modal Data Analytics on Data Lakes | Ju Fan |  [paper](https://arxiv.org/pdf/2505.11270)   |
+| Arxiv/2508  | AgenticData: An Agentic Data Analytics System for Heterogeneous Data | Yuan Li |  [paper](https://arxiv.org/pdf/2508.50002)   |
 | Arxiv'2501  | TableMaster: A Recipe to Advance Table Understanding with Language Models | Hanbing Liu |  [paper](https://arxiv.org/pdf/2501.19378)    |  |
 | Arxiv'2505  | Weaver: Interweaving SQL and LLM for Table Reasoning | Vivek Gupta |  [paper](https://arxiv.org/pdf/2505.18961)    | 
 | ICLR'24    | OpenTab: Advancing Large Language Models as Open-domain Table Reasoners | Jiani Zhang  |  [paper](https://arxiv.org/pdf/2402.14361)    | 
