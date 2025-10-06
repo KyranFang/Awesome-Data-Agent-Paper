@@ -72,7 +72,7 @@
 | Arxiv'2501  | TableMaster: A Recipe to Advance Table Understanding with Language Models | Hanbing Liu |  [paper](https://arxiv.org/pdf/2501.19378)    |  
 | Arxiv'2505  | Weaver: Interweaving SQL and LLM for Table Reasoning | Vivek Gupta |  [paper](https://arxiv.org/pdf/2505.18961)    | 
 | ICLR'24     | OpenTab: Advancing Large Language Models as Open-domain Table Reasoners | Jiani Zhang  |  [paper](https://arxiv.org/pdf/2402.14361)    | 
-| ICLR'24     | CABINET: Content Relevance based Noise Reduction for Table Question Answering |  Balaji Krishnamurthy |  [paper](https://arxiv.org/pdf/2402.01155)    | 
+| ICLR'24     | CABINET: Content Relevance based Noise Reduction for Table Question Answering |  Balaji Krishnamurthy |  [paper](https://arxiv.org/pdf/2402.01155)    |  
 | ICLR'24     | Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection | Hannaneh Hajishirzi  |  [paper](https://arxiv.org/pdf/2401.04398)    |
 | ICLR'24     | Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding | Tomas Pfister  |  [paper](https://arxiv.org/pdf/2401.04398)    |
 | VLDB'24     | ReAcTable: Enhancing ReAct for Table Question Answering |  Jignesh M. Patel |  [paper](https://arxiv.org/pdf/2310.00815)    |
