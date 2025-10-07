@@ -79,5 +79,5 @@
 | VLDB'24     | AutoTQA: Towards Autonomous Tabular Question Answering through Multi-Agent Large Language Models | Qi Liu |  [paper](https://www.vldb.org/pvldb/vol17/p3920-zhu.pdf)    |
 | VLDB'24     | D-Bot: Database Diagnosis System using Large Language Models | Guoliang Li |  [paper](https://arxiv.org/pdf/2312.01454)    |
 | NIPS'23     | Augmenting language models with long-term memory | Furu Wei |  [paper](https://arxiv.org/pdf/2306.07174)    | 
-| NIPS'23     | Reflexion: Language Agents with Verbal Reinforcement Learning | Shunyu Yao |  [paper](https://arxiv.org/pdf/2310.08560)    | 
+| NIPS'23     | Reflexion: Language Agents with Verbal Reinforcement Learning | Shunyu Yao |  [paper](https://arxiv.org/pdf/2303.11366)    | 
 | Arxiv'2310  | MemGPT: Towards LLMs as Operating Systems | Charles Packer |  [paper](https://arxiv.org/pdf/2310.08560)    | 
